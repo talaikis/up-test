@@ -1,0 +1,7 @@
+{
+  "name": "up-test",
+  "profile": "default",
+  "regions": [
+    "us-east-2"
+  ]
+}
